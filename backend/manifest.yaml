@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: riyacham/mysql:1.0.0
+        image: riyacham/backend:1.0.0
 
 ---
 kind: Service
