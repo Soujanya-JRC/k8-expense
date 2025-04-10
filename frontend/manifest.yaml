@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: riyacham/frontend:1.0.0
+        image: riyacham/frontend
 
 ---
 kind: Service
